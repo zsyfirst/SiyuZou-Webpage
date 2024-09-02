@@ -1,0 +1,154 @@
+---
+title: "Siyu Zou"
+image: SiyuZou.jpg
+about:
+  template: marquee
+  image-shape: round
+  image-width: 14em
+  links:
+    - icon: linkedin
+      text: Linkedin
+      href: https://www.linkedin.com/in/siyu-zou-769b43289/
+    - icon: r-square-fill
+      text: Research Gate
+      href: https://www.researchgate.net/profile/Siyu-Zou
+    - icon: github
+      text: Github
+      href: https://github.com/zsyfirst
+    - text: "{{< ai google-scholar >}} Google Scholar"
+      href: https://scholar.google.com/citations?user=BqMKl_sAAAAJ&hl=zh-CN
+    - icon: envelope-fill
+      text: Email
+      href: mailto:szou14@jh.edu
+
+format: 
+  html:
+    css: |
+      body {
+        text-align: left;
+      }
+    fontsize: 15px
+    linestretch: 1.4
+    toc: false
+    gird:
+      body-width: 750px
+      sidebar-width: 50px
+      margin-width: 50px
+---
+
+### [**BIOGRAPHY**]{.smallcaps}
+
+| Welcome to Siyu Zou's personal webpage. I'm excited to share my academic journey with you!
+| 
+| I am currently pursuing a Master's degree in Epidemiology at Johns Hopkins University (since 2023), under the supervision of Professor [Lawrence Appel](https://publichealth.jhu.edu/faculty/15/lawrence-j-appel) and [Kunihiro Matsushita](https://publichealth.jhu.edu/faculty/2473/kunihiro-matsushita).
+
+| As a graduate research assistant working with [Dr. Matsushita](https://publichealth.jhu.edu/faculty/2473/kunihiro-matsushita), I focus on using Coronary Artery Calcium to predict the incidence risk of Cardiovascular Diseases.
+| 
+| Before this, I served as a full-time research assistant with Professor  [Kun Tang](https://vsph.tsinghua.edu.cn/en/info/1010/1047.htm) at Tsinghua University (2022-2023), where I published five first-author papers in journals, such as [*Public Health*](https://doi.org/10.1016/j.puhe.2022.01.021), [*International Health*](), [*Journal of Public Health*](https://doi.org/10.1093/pubmed/fdaa204), [*BMC Health Services Research*](https://doi.org/10.1186/s12913-022-07530-4) and [*BMJ sexual & reproductive health*](https://doi.org/10.1136/bmjsrh-2020-200766).
+| 
+| My academic journey began with an MBBS degree (2017-2022) from Peking University, where I worked under the mentorship of Professor [Hong Zhou](https://sph.pku.edu.cn/info/1365/4151.htm) and published several papers in journals like [*Annals of General Psychiatry*](https://doi.org/10.1186/s12991-024-00515-z), [*European journal of nutrition*](https://doi.org/10.1007/s00394-021-02493-4) and [*PLoS Medicine*](https://doi.org/10.1371/journal.pmed.1003578).
+| 
+| To learn more about my research output, please visit my [ResearchGate](https://www.researchgate.net/profile/Siyu-Zou) profile.
+
+### [**RESEARCH INTERESTS (**]{.smallcaps}[More](https://sngao.github.io/Sunan-Gao/about.html)[**)**]{.smallcaps}
+
+-   I am motivated to develop effective and timely strategies, such as dietary interventions, for the prevention and control of cardiovascular disease (CVD), particularly among vulnerable populations.
+
+-   My interests also include the integration of health indicators (e.g., BMI, blood pressure, heart rate), biomarkers, CVD-related diseases (e.g., stroke, coronary heart disease, heart failure), and omics approaches (e.g., metabolomics, metagenomics, GWAS).
+
+-   Additionally, I am keen to explore advanced statistical and machine learning methods, such as deep learning, to predict CVD risk.
+
+### [**CURRENT PROJECTS (**]{.smallcaps}[More](https://sngao.github.io/Sunan-Gao/about.html)[**)**]{.smallcaps}
+
++----------------------------------------------------------+:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| ![](images/ASBP_DASH_intervention_Race.png){width="800"} | <span style="font-size: 15px; line-height: 1.3"> **Effect of Dietary Pattern and Sodium on Blood Pressure Variability: Results from the DASH and DASH-Sodium Trial**                                                   |
+|                                                          |                                                                                                                                                                                                                        |
+|                                                          | [***Siyu Zou***]{.underline}, supervised by Prof. [Lawrence Appel](https://publichealth.jhu.edu/faculty/15/lawrence-j-appel)\                                                                                          |
+|                                                          | Working Paper                                                                                                                                                                                                          |
+|                                                          |                                                                                                                                                                                                                        |
+|                                                          | Submitted abstract to the American Heart Association's EPI\|Lifestyle Scientific Sessions 2025                                                                                                                         |
++----------------------------------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| ![](images/cor_1.png){width="800"}                       | <span style="font-size: 15px; line-height: 1.3"> **Calcified Coronary Plaque Number and Risk of Incident Cardiovascular Disease in the 75-and-Older Population: The Atherosclerosis Risk in Communities (ARIC) Study** |
+|                                                          |                                                                                                                                                                                                                        |
+|                                                          | [***Siyu Zou***]{.underline}, supervised by Prof. [Kunihiro Matsushita](https://publichealth.jhu.edu/faculty/2473/kunihiro-matsushita)\                                                                                |
+|                                                          | Working Paper, ARIC Proposal #: 4405                                                                                                                                                                                   |
+|                                                          |                                                                                                                                                                                                                        |
+|                                                          | Presented abstract poster at the American Heart Association's annual Scientific Sessions 2024                                                                                                                          |
++----------------------------------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| ![](images/Diffuse_Ahbi.png){width="800"}                | <span style="font-size: 15px; line-height: 1.3"> **Predictors of Coronary Artery Calcium Distribution in Older Adults Aged \>75**                                                                                      |
+|                                                          |                                                                                                                                                                                                                        |
+|                                                          | [***Siyu Zou***]{.underline}, supervised by Prof. [Michael J. Blaha](https://profiles.hopkinsmedicine.org/provider/michael-joseph-blaha/2708057 "Prof")                                                                |
+|                                                          |                                                                                                                                                                                                                        |
+|                                                          | Presented abstract poster at the American Heart Association's annual Scientific Sessions 2024                                                                                                                          |
++----------------------------------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+
+### [**SELECTED PEER-REVIEWED ARTICLES (**]{.smallcaps}[More](https://scholar.google.com/citations?user=BqMKl_sAAAAJ)[**)**]{.smallcaps}
+
++--------------------------------------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| ![](images/maternal.png){width="700"}                        | <span style="font-size: 15px; line-height: 1.3"> **Maternal depression and early childhood development among children aged 24-59 months: the mediating effect of responsive caregiving** [\[DOI\]](https://doi.org/10.1186/s12991-024-00515-z)**\     |
+|                                                              | **\                                                                                                                                                                                                                                                   |
+|                                                              | [***Siyu Zou***]{.underline}, *Xinye Zou, Ruolin Zhang*\                                                                                                                                                                                              |
+|                                                              | *Annals of General Psychiatry*. 2024;23(1) ***(Q1)***                                                                                                                                                                                                 |
++--------------------------------------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| ![](images/multimorbidity_public_health.png){width="700"}    | <span style="font-size: 15px; line-height: 1.3"> **Association of multimorbidity of non-communicable diseases with mortality: a 10-year prospective study of 0.5 million Chinese adults** [\[DOI\]](https://doi.org/10.1016/j.puhe.2022.01.021)**\    |
+|                                                              | **\                                                                                                                                                                                                                                                   |
+|                                                              | [***Siyu Zou***]{.underline}, *Zhicheng Wang, Maria Bhura, Kun Tang*\                                                                                                                                                                                 |
+|                                                              | *Public Health*. 2022;205:63-71 ***(Q1)***                                                                                                                                                                                                            |
++--------------------------------------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| ![](images/multimorbidity_baseline.png){width="700"}         | <span style="font-size: 15px; line-height: 1.3"> **Prevalence and associated socioeconomic factors of multimorbidity in 10 regions of China: an analysis of 0.5 million adults** [\[DOI\]](https://doi.org/10.1093/pubmed/fdaa204)**\                 |
+|                                                              | **\                                                                                                                                                                                                                                                   |
+|                                                              | [***Siyu Zou***]{.underline}, *Zhicheng Wang, Maria Bhura, et al*\                                                                                                                                                                                    |
+|                                                              | *Journal of Public Health*. 2020;44(1):36-50 ***(Q1)***                                                                                                                                                                                               |
++--------------------------------------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| ![](images/SEM-DRC2.png){width="700"}                        | <span style="font-size: 15px; line-height: 1.3"> **Understanding the context of healthcare utilisation for children under-five with diarrhoea in the DRC: based on Andersen behavioural model** [\[DOI\]](https://doi.org/10.1186/s12913-022-07530-4) |
+|                                                              |                                                                                                                                                                                                                                                       |
+|                                                              | ***Siyu Zou**, Xinran Qi, Keiko Marshall, et al*\                                                                                                                                                                                                     |
+|                                                              | *BMC Health Serv Res*. 2022;22(1):144 ***(Q2)***                                                                                                                                                                                                      |
++--------------------------------------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| ![](images/Applied_Research_Quality_Life_2.png){width="700"} | <span style="font-size: 15px; line-height: 1.3"> **Association of lifestyle factors with multimorbidity risk in China: A national representative study** [\[DOI\]](https://doi.org/10.1007/s11482-024-10291-3)                                        |
+|                                                              |                                                                                                                                                                                                                                                       |
+|                                                              | *Xinye Zou, **Siyu Zou**, Ruolin Zhang, et al*\                                                                                                                                                                                                       |
+|                                                              | *Applied Research Quality Life*. 2024;19(3):1411-1435 ***(Q1)***                                                                                                                                                                                      |
++--------------------------------------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+
+### [**TEACHING EXPERIENCE**]{.smallcaps}
+
++:-----------------------------------------:+:--------------------------------------------------------------------------------------------+
+| ![](JHU_logo.png){width="60" height="68"} | <span style="font-size: 15px; line-height: 1.3"> **Statistical Concepts in Public Health 2\ |
+|                                           | Graduate Teaching Assistant**\                                                              |
+|                                           | 08/2024 - Present                                                                           |
++-------------------------------------------+---------------------------------------------------------------------------------------------+
+| ![](JHU_logo.png){width="60" height="68"} | <span style="font-size: 15px; line-height: 1.3">\                                           |
+|                                           | **Methods for Clinical and Translational Reasearch \                                        |
+|                                           | Graduate Teaching Assistant**\                                                              |
+|                                           | 05/2024 - 07/2024                                                                           |
++-------------------------------------------+---------------------------------------------------------------------------------------------+
+| ![](images/Peking.png){width="75"}        | <span style="font-size: 15px; line-height: 1.3">\                                           |
+|                                           | **Application of SPSS in Medical Statistics\                                                |
+|                                           | Teaching Assistant**\                                                                       |
+|                                           | 09/2020 - 12/2021                                                                           |
++-------------------------------------------+---------------------------------------------------------------------------------------------+
+
+### [**HONORS & AWARDS**]{.smallcaps}
+
++:--------------------------------------------------------------------------------------------------------+:--------------------------------------------------------+
+| <span style="font-size: 15px; line-height: 1.5; "> Excellent Youth Award of Tsinghua University (0.1%)\ | <span style="font-size: 15px; line-height: 1.5;"> 2022\ |
+| "Future Medical Star" Award of Peking University (0.1%)\                                                | 2021\                                                   |
+| The First-class Scholarship for Outstanding Students (1%)\                                              | 2021; 2020; 2019\                                       |
+| Merit Students Award, Peking University (5%)                                                            | 2021; 2020; 2019                                        |
++---------------------------------------------------------------------------------------------------------+---------------------------------------------------------+
+
+### [**EDUCATION**]{.smallcaps}
+
++:-----------------------------------------:+:---------------------------------------------------------------------------------------------------+
+| ![](JHU_logo.png){width="60" height="68"} | <span style="font-size: 15px; line-height: 1.3"> **Johns Hopkins University, MHS (Epidemiology)**\ |
+|                                           | 08/2023 - Present                                                                                  |
++-------------------------------------------+----------------------------------------------------------------------------------------------------+
+| ![](images/Peking.png){width="75"}        | <span style="font-size: 15px; line-height: 1.3">\                                                  |
+|                                           | **Peking University, MBBS (Preventive Medicine)**\                                                 |
+|                                           | 09/2017 - 06/2022                                                                                  |
++-------------------------------------------+----------------------------------------------------------------------------------------------------+
+
+```{=html}
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=stiTj-7g1z18TWFI3u3UkLNmhrm8votmhKmZMcq64PU&cl=ffffff&w=a"></script>
+```

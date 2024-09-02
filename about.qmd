@@ -1,0 +1,115 @@
+---
+title: "Siyu Zou"
+
+format: 
+  html:
+    fontsize: 15px
+    linestretch: 1.3
+    toc: true
+    gird:
+      body-width: 700px
+      sidebar-width: 80px
+      margin-width: 80px
+---
+
+### [**DISCIPLINES**]{.smallcaps}
+
+Epidemiology; Cardiovascular Diseases; Hypertension; Blood Pressure; Nutrition; Obesity; Lifestyle Modification; Risk Prediction; Clinical Trials
+
+### [**RESEARCH INTEREST**]{.smallcaps}
+
+-   ***Cardiovascular*** ***Diseases:*** Coronary Heart Disease; Heart Failure; Stroke; Atrial Fibrillation
+
+-   ***Research Methods:*** Survival Analysis; Risk Prediction; Machine Learning; Omics Techniques; Causal Inference
+
+-   ***High Dimensional Data:*** Metabonomics; Genomics
+
+-   ***Health Indicator:*** Agatston Score; Cardiac Biomarker; Dietary Pattern; Blood Pressure Variability
+
+### [**SELECTED PUBLICATIONS**]{.smallcaps}
+
+1.  [**Zou S**]{.underline}, Zou X, Zhang R, et al. Maternal depression and early childhood development among children aged 24-59 months: the mediating effect of responsive caregiving. Ann Gen Psychiatry. 2024;23(1):30. \[[[DOI]{.underline}](https://annals-general-psychiatry.biomedcentral.com/articles/10.1186/s12991-024-00515-z)\]
+
+2.  [**Zou S**]{.underline}, Wang Z, Tang K. Social inequalities in all-cause mortality among adults with multimorbidity: a 10-year prospective study of 0.5 million Chinese adults. *International health*. 2023;15(2):123-133. \[[[DOI]{.underline}](https://doi.org/10.1093/inthealth/ihac052)\]
+
+3.  [**Zou S**]{.underline}, Wang Z, Bhura M, et al. Prevalence and associated socioeconomic factors of multimorbidity in 10 regions of China: an analysis of 0.5 million adults. *Journal of Public Health (Oxford)*. 2022;44(1). \[[[DOI]{.underline}](https://doi.org/10.1093/pubmed/fdaa204)\]
+
+4.  [**Zou S**]{.underline}, Wang Z, Bhura M, et al. Association of multimorbidity of non-communicable diseases with mortality: a 10-year prospective study of 0.5 million Chinese adults. *Public Health*. 2022;205. \[[[DOI]{.underline}](https://doi.org/10.1016/j.puhe.2022.01.021)\]
+
+5.  [**Zou S**]{.underline}, Qi X, Marshall K, et al. Understanding the context of healthcare utilisation for children under-five with diarrhoea in the DRC: based on Andersen behavioural model. *BMC health services research*. 2022;22(1). \[[[DOI]{.underline}](https://doi.org/10.1186/s12913-022-07530-4)\]
+
+6.  [**Zou S**]{.underline}, Cao W, Jia Y, et al. Sexual and reproductive health and attitudes towards sex of young adults in China. *BMJ sexual & reproductive health*. 2022;48(e1). \[[[DOI]{.underline}](https://doi.org/10.1136/bmjsrh-2020-200766)\]
+
+7.  Zou X, [**Zou S**]{.underline}, Zhang R, et al. Association of Lifestyle Factors with Multimorbidity Risk in China: A National Representative Study. *Applied Research Quality Life*. 2024;19(3):1411-1435. \[[[DOI]{.underline}](https://doi.org/10.1007/s11482-024-10291-3)\]
+
+8.  Zou X, [**Zou S**]{.underline}, Guo Y, et al. Association of smoking status and nicotine dependence with multi-morbidity in China: A nationally representative cross-sectional study. *Tobacco induced diseases.* 2023;21:81. \[[[DOI]{.underline}](https://doi.org/10.18332/tid/166110)\]
+
+9.  Xue K, [**Zou S**]{.underline}, Zou X, et al. Live-streaming comprehensive sexuality education in Western China: an analysis of the views of implementers and junior secondary students. Sex Education. 2023:1-16. \[[[DOI]{.underline}](https://doi.org/10.1080/14681811.2023.2266829)\]
+
+10. Yan LL, Li C, [**Zou S**]{.underline}, et al. Healthy eating and all-cause mortality among Chinese aged 80 years or older. *International Journal of Behavioral Nutrition and Physical Activity*. 2022;19(1). \[[[DOI]{.underline}](https://doi.org/10.1186/s12966-022-01280-6)\]
+
+11. Gao Y, Wang Y, [**Zou S**]{.underline}, et al. Association of iron supplementation and deworming with early childhood development: analysis of Demographic and Health Surveys in ten low- and middle-income countries. *European journal of nutrition*. 2021;60(6). \[[[DOI]{.underline}](https://doi.org/10.1007/s00394-021-02493-4)\]
+
+12. Li H, Zou X, Zhang R, [**Zou S**]{.underline}, et al. Association of chronic conditions and physical multimorbidity with new-onset incontinence in a nationwide prospective cohort study of older adults ≥ 50 years in China. Age and Ageing. 2024;53(1). \[[[DOI]{.underline}](https://doi.org/10.1093/ageing/afad258)\]
+
+13. Huang S, Gongye R, [**Zou S**]{.underline}, et al. Menopausal status, age at menopause and risk of all-cause mortality among Chinese women: findings from a 10-year prospective study. *BMJ Public Health*. 2023;1(1):e000332. \[[[DOI]{.underline}](https://doi.org/10.1136/bmjph-2023-000332)\]
+
+14. Zhou H, Ding Y, Yang Y, [**Zou S**]{.underline}, et al. Effects on developmental outcomes after cesarean birth versus vaginal birth in Chinese children aged 1--59 months: a cross-sectional community-based survey. *PeerJ*. 2019;7:e7902. \[[[DOI]{.underline}](https://doi.org/10.7717/peerj.7902)\]
+
+15. Gao Y, Zhang L, Kc A, Wang Y, [**Zou S**]{.underline}, et al. Housing environment and early childhood development in sub-Saharan Africa: A cross-sectional analysis. *PLoS Medicine*. 2021;18(4):e1003578. \[[[DOI]{.underline}](https://doi.org/10.1371/journal.pmed.1003578)\]
+
+**Conference Proceedings**
+
+1.  He Z, **Zou S**, Guo Q, et al. Time-Varying Healthy Lifestyle Profile and All-Cause Mortality Among the Oldest-Old in China. Circulation. 2023;147(Suppl_1). \[[[DOI]{.underline}](https://doi.org/10.1161/circ.147.suppl_1.P303)\] (Poster Presentation)
+
+2.  **Zou S**, Wang Z, Bhura M, et al. Prevalence and associated socioeconomic factors of multimorbidity in ten regions of China: a cross-sectional analysis. *The Lancet*, 2020;396:S12. \[[[DOI]{.underline}](https://doi.org/10.1016/S0140-6736(20)32432-6)\] (Poster Presentation)
+
+3.  **Zou S.** Global, and regional trends of dengue and its relationship with micronutrient deficiencies from 1990 to 2019: an analysis of the Global Burden of Disease 2019 study. 2nd World Health Forum towards Health Equity, 2022 (Oral Presentation)
+
+### [**RESEARCH PROJECTS**]{.smallcaps}
+
+-   **Understanding Factors Associated with Cardiac Rehabilitation Utilization at Johns Hopkins\
+    ***Supervised by [Dr. Lena Mathews](https://profiles.hopkinsmedicine.org/provider/lena-molly-mathews/2709173), Professor of Medicine, Johns Hopkins University*
+
+-   **DASH diet effect on blood pressure variability\
+    ***Supervised by [Prof. Lawrence Appel](https://publichealth.jhu.edu/faculty/15/lawrence-j-appel), Professor of Medicine, Johns Hopkins University*
+
+-   **Coronary artery calcium and cardiovascular disease risk in the 75-and-older population**\
+    *Supervised by [Prof. Kunihiro Matsushita](https://publichealth.jhu.edu/faculty/2473/kunihiro-matsushita), Professor of Epidemiology, Johns Hopkins University*
+
+-   **Predictors of Coronary Artery Calcium Distribution in Older Adults Aged \>75\
+    ***Supervised by* [Prof. Michael J. Blaha](https://profiles.hopkinsmedicine.org/provider/michael-joseph-blaha/2708057 "Prof"), *Professor of Cardiology & Epidemiology, Johns Hopkins University*
+
+-   **Social inequalities in all-cause mortality among adults with multimorbidity\
+    ***Supervised by* [Prof. Kun Tang](https://vsph.tsinghua.edu.cn/en/info/1010/1047.htm)*, Professor of Vanke School of Public Health, Tsinghua University*
+
+-   **Time-varying diet and longevity among Chinese aged 80 years or older\
+    ***Supervised by* [Prof. Lijing Yan](https://faculty.dukekunshan.edu.cn/faculty_profiles/lijing-yan)*,* *Professor of Global Health Research Center, Duke University*
+
+### **WORK EXPERIENCE**
+
++:-----------------------------------------:+---------------------------------------------------------------------------------------------------------------------+
+| ![](JHU_logo.png){width="60" height="71"} | <span style="font-size: 14px; line-height: 1.3"> **Bloomberg School of Public Health, Johns Hopkins University\     |
+|                                           | **Graduate Research Assistant (Part-time)\                                                                          |
+|                                           | 01/2024 - Present                                                                                                   |
++-------------------------------------------+---------------------------------------------------------------------------------------------------------------------+
+| ![](JHU_logo.png){width="60" height="71"} | <span style="font-size: 14px; line-height: 1.4"> **Bloomberg School of Public Health, Johns Hopkins University** *\ |
+|                                           | *Graduate Research Assistant (Full-time)\                                                                           |
+|                                           | 05/2024 - 08/2024                                                                                                   |
++-------------------------------------------+---------------------------------------------------------------------------------------------------------------------+
+| ![](images/Tsinghua.png){width="70"}      | <span style="font-size: 14px; line-height: 1.4"> **Vanke School of Public Health, Tsinghua University\              |
+|                                           | **Research Data Analyst (Full-time)**\                                                                              |
+|                                           | **07**/**2022 - 08/2023                                                                                             |
++-------------------------------------------+---------------------------------------------------------------------------------------------------------------------+
+| ![](images/Peking.png){width="70"}        | <span style="font-size: 14px; line-height: 1.4"> **School of Public Health, Peking University\                      |
+|                                           | **Research Assistant (Part-time)**\                                                                                 |
+|                                           | **10**/**2021 - 06/2022                                                                                             |
++-------------------------------------------+---------------------------------------------------------------------------------------------------------------------+
+| ![](images/CDC.png){width="70"}           | <span style="font-size: 14px; line-height: 1.4"> **Center for Diseases Control and Prevention, Beijing, China\      |
+|                                           | **Medical Intern (Full-time)\                                                                                       |
+|                                           | 07/2021-10/2021                                                                                                     |
++-------------------------------------------+---------------------------------------------------------------------------------------------------------------------+
+| ![](images/Peking.png){width="70"}        | <span style="font-size: 14px; line-height: 1.4"> **Peking University Ninth Clinical Hospital\                       |
+|                                           | **Clinical Medical Intern (Full-time)\                                                                              |
+|                                           | 01/2020-01/2021                                                                                                     |
++-------------------------------------------+---------------------------------------------------------------------------------------------------------------------+

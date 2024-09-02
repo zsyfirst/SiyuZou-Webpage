@@ -1,0 +1,34 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Siyu Zou (邹思雨)"
+  favicon: image.jpg
+  navbar:
+    background: dark
+    right:
+      - href: index.qmd
+        text: Home # use 'text' option to update the name as you want it to appear in your navbar
+      - href: about.qmd
+        text: About
+      - icon: github # add icons that link to social media, etc.
+        href: https://github.com/zsyfirst
+      - text: "{{< ai google-scholar >}}"
+        href: https://scholar.google.com/citations?user=BqMKl_sAAAAJ&hl=zh-CN
+      - icon: linkedin
+        href: https://www.linkedin.com/in/siyu-zou-769b43289/
+      - text: Email
+        href: mailto:szou14@jh.edu
+      
+
+format:
+  html:
+    theme:
+      light: minty # united, LUX, litera, journal, Superhero
+      # dark: solar
+    css: styles.css
+    toc: true
+
+editor: visual
+# bibliography: ref_project1.bib
