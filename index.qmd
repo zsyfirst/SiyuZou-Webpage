@@ -44,7 +44,7 @@ format:
 
 | As a graduate research assistant working with [Dr. Matsushita](https://publichealth.jhu.edu/faculty/2473/kunihiro-matsushita), I focus on using Coronary Artery Calcium to predict the incidence risk of Cardiovascular Diseases.
 | 
-| Before this, I served as a full-time research assistant with Professor  [Kun Tang](https://vsph.tsinghua.edu.cn/en/info/1010/1047.htm) at Tsinghua University (2022-2023), where I published five first-author papers in journals, such as [*Public Health*](https://doi.org/10.1016/j.puhe.2022.01.021), [*International Health*](), [*Journal of Public Health*](https://doi.org/10.1093/pubmed/fdaa204), [*BMC Health Services Research*](https://doi.org/10.1186/s12913-022-07530-4) and [*BMJ sexual & reproductive health*](https://doi.org/10.1136/bmjsrh-2020-200766).
+| Before this, I served as a full-time research assistant with Professor [Kun Tang](https://vsph.tsinghua.edu.cn/en/info/1010/1047.htm) at Tsinghua University (2022-2023), where I published five first-author papers in journals, such as [*Public Health*](https://doi.org/10.1016/j.puhe.2022.01.021), [*International Health*](), [*Journal of Public Health*](https://doi.org/10.1093/pubmed/fdaa204), [*BMC Health Services Research*](https://doi.org/10.1186/s12913-022-07530-4) and [*BMJ sexual & reproductive health*](https://doi.org/10.1136/bmjsrh-2020-200766).
 | 
 | My academic journey began with an MBBS degree (2017-2022) from Peking University, where I worked under the mentorship of Professor [Hong Zhou](https://sph.pku.edu.cn/info/1365/4151.htm) and published several papers in journals like [*Annals of General Psychiatry*](https://doi.org/10.1186/s12991-024-00515-z), [*European journal of nutrition*](https://doi.org/10.1007/s00394-021-02493-4) and [*PLoS Medicine*](https://doi.org/10.1371/journal.pmed.1003578).
 | 
@@ -113,13 +113,21 @@ format:
 
 ### [**TEACHING EXPERIENCE**]{.smallcaps}
 
-+:-----------------------------------------:+:--------------------------------------------------------------------------------------------+
++:-----------------------------------------:+---------------------------------------------------------------------------------------------+
+| ![](JHU_logo.png){width="60" height="68"} | <span style="font-size: 15px; line-height: 1.3"> **Introduction to Epidemiology\            |
+|                                           | Graduate Teaching Assistant**\                                                              |
+|                                           | 01/2025 - 03/2025                                                                           |
++-------------------------------------------+---------------------------------------------------------------------------------------------+
+| ![](JHU_logo.png){width="60" height="68"} | <span style="font-size: 15px; line-height: 1.3"> **Intermediate Epidemiology\               |
+|                                           | Graduate Teaching Assistant**\                                                              |
+|                                           | 10/2024 - 12/2024                                                                           |
++-------------------------------------------+---------------------------------------------------------------------------------------------+
 | ![](JHU_logo.png){width="60" height="68"} | <span style="font-size: 15px; line-height: 1.3"> **Statistical Concepts in Public Health 2\ |
 |                                           | Graduate Teaching Assistant**\                                                              |
-|                                           | 08/2024 - Present                                                                           |
+|                                           | 08/2024 - 10/2024                                                                           |
 +-------------------------------------------+---------------------------------------------------------------------------------------------+
 | ![](JHU_logo.png){width="60" height="68"} | <span style="font-size: 15px; line-height: 1.3">\                                           |
-|                                           | **Methods for Clinical and Translational Reasearch \                                        |
+|                                           | **Methods for Clinical and Translational Reasearch\                                         |
 |                                           | Graduate Teaching Assistant**\                                                              |
 |                                           | 05/2024 - 07/2024                                                                           |
 +-------------------------------------------+---------------------------------------------------------------------------------------------+
@@ -141,7 +149,7 @@ format:
 ### [**EDUCATION**]{.smallcaps}
 
 +:-----------------------------------------:+:---------------------------------------------------------------------------------------------------+
-| ![](JHU_logo.png){width="60" height="68"} | <span style="font-size: 15px; line-height: 1.3"> **Johns Hopkins University, MHS (Epidemiology)**\ |
+| ![](JHU_logo.png){width="60" height="68"} | <span style="font-size: 15px; line-height: 1.3"> **Johns Hopkins University, ScM (Epidemiology)**\ |
 |                                           | 08/2023 - Present                                                                                  |
 +-------------------------------------------+----------------------------------------------------------------------------------------------------+
 | ![](images/Peking.png){width="75"}        | <span style="font-size: 15px; line-height: 1.3">\                                                  |
