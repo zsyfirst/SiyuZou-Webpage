@@ -14,7 +14,7 @@ format:
 
 ### [**DISCIPLINES**]{.smallcaps}
 
-Epidemiology; Cardiovascular Diseases; Hypertension; Blood Pressure; Nutrition; Obesity; Lifestyle Modification; Risk Prediction; Clinical Trials
+Epidemiology; Cardiovascular Diseases; Hypertension; Nutrition; Clinical Trials
 
 ### [**RESEARCH INTEREST**]{.smallcaps}
 

@@ -139,21 +139,22 @@ format:
 
 ### [**HONORS & AWARDS**]{.smallcaps}
 
-+:--------------------------------------------------------------------------------------------------------+:--------------------------------------------------------+
-| <span style="font-size: 15px; line-height: 1.5; "> Excellent Youth Award of Tsinghua University (0.1%)\ | <span style="font-size: 15px; line-height: 1.5;"> 2022\ |
-| "Future Medical Star" Award of Peking University (0.1%)\                                                | 2021\                                                   |
-| The First-class Scholarship for Outstanding Students (1%)\                                              | 2021; 2020; 2019\                                       |
-| Merit Students Award, Peking University (5%)                                                            | 2021; 2020; 2019                                        |
-+---------------------------------------------------------------------------------------------------------+---------------------------------------------------------+
++:--------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------+
+| <span style="font-size: 15px; line-height: 1.5; "> Dorothy and Arthur Samet Student Support Fund of Johns Hopkins (0.1%)\ | <span style="font-size: 15px; line-height: 1.5"> 2025\ |
+| Excellent Youth Award of Tsinghua University (0.1%)\                                                                      | 2022\                                                  |
+| "Future Medical Star" Award of Peking University (0.1%)\                                                                  | 2021\                                                  |
+| The First-class Scholarship for Outstanding Students (1%)\                                                                | 2021; 2020; 2019\                                      |
+| Merit Students Award (5%)                                                                                                 | 2021; 2020; 2019                                       |
++---------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------+
 
 ### [**EDUCATION**]{.smallcaps}
 
 +:-----------------------------------------:+----------------------------------------------------------------------------------------------------+
 | ![](images/Harvard_logo.png){width="75"}  | <span style="font-size: 15px; line-height: 1.3"> **Harvard University, PhD (Epidemiology)**\       |
-|                                           | 08/2025 - Present                                                                                  |
+|                                           | 08/2025 - 05/2029 (Expected)                                                                       |
 +-------------------------------------------+----------------------------------------------------------------------------------------------------+
 | ![](JHU_logo.png){width="60" height="68"} | <span style="font-size: 15px; line-height: 1.3"> **Johns Hopkins University, ScM (Epidemiology)**\ |
-|                                           | 08/2023 - 05/2025                                                                                  |
+|                                           | 08/2 05/2025                                                                                       |
 +-------------------------------------------+----------------------------------------------------------------------------------------------------+
 | ![](images/Peking.png){width="75"}        | <span style="font-size: 15px; line-height: 1.3">\                                                  |
 |                                           | **Peking University, MBBS (Preventive Medicine)**\                                                 |
