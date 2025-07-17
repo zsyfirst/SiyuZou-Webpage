@@ -60,11 +60,17 @@ Epidemiology; Cardiovascular Diseases; Hypertension; Blood Pressure; Nutrition; 
 
 **Conference Proceedings**
 
-1.  He Z, **Zou S**, Guo Q, et al. Time-Varying Healthy Lifestyle Profile and All-Cause Mortality Among the Oldest-Old in China. Circulation. 2023;147(Suppl_1). \[[[DOI]{.underline}](https://doi.org/10.1161/circ.147.suppl_1.P303)\] (Poster Presentation)
+1.  **Zou S**, Gao S, Juraschek S, et al. Effects of Dietary Patterns and Sodium Intake on Blood Pressure Variability: Results from the DASH and DASH-Sodium Trials. Circulation. 2025;151. \[[[DOI]{.underline}](https://doi.org/10.1161/cir.151.suppl_1.P2071)\] (Poster Presentation)
 
-2.  **Zou S**, Wang Z, Bhura M, et al. Prevalence and associated socioeconomic factors of multimorbidity in ten regions of China: a cross-sectional analysis. *The Lancet*, 2020;396:S12. \[[[DOI]{.underline}](https://doi.org/10.1016/S0140-6736(20)32432-6)\] (Poster Presentation)
+2.  **Zou S**, Liu H, Mok Y, et al. Extra-Coronary Calcification and Risk of Incident Cardiovascular Disease in Adults 75 and Older: The Atherosclerosis Risk in Communities (ARIC) Study. Circulation. 2025;151. \[[[DOI]{.underline}](https://doi.org/10.1161/cir.151.suppl_1.P2010)\] (Poster Presentation)
 
-3.  **Zou S.** Global, and regional trends of dengue and its relationship with micronutrient deficiencies from 1990 to 2019: an analysis of the Global Burden of Disease 2019 study. 2nd World Health Forum towards Health Equity, 2022 (Oral Presentation)
+3.  **Zou S**, Liu H, Mok Y, et al. Coronary Calcified Plaque Number and Risk of Incident Cardiovascular Disease in the 75-and-Older Population: The Atherosclerosis Risk in Communities (ARIC) Study. Circulation. 2024;150. \[[[DOI]{.underline}](https://doi.org/10.1161/circ.150.suppl_1.4141410)\] (Poster Presentation)
+
+4.  He Z, **Zou S**, Guo Q, et al. Time-Varying Healthy Lifestyle Profile and All-Cause Mortality Among the Oldest-Old in China. Circulation. 2023;147(Suppl_1). \[[[DOI]{.underline}](https://doi.org/10.1161/circ.147.suppl_1.P303)\] (Poster Presentation)
+
+5.  **Zou S**, Wang Z, Bhura M, et al. Prevalence and associated socioeconomic factors of multimorbidity in ten regions of China: a cross-sectional analysis. *The Lancet*, 2020;396:S12. \[[[DOI]{.underline}](https://doi.org/10.1016/S0140-6736(20)32432-6)\] (Poster Presentation)
+
+6.  **Zou S.** Global, and regional trends of dengue and its relationship with micronutrient deficiencies from 1990 to 2019: an analysis of the Global Burden of Disease 2019 study. 2nd World Health Forum towards Health Equity, 2022 (Oral Presentation)
 
 ### [**RESEARCH PROJECTS**]{.smallcaps}
 
@@ -91,7 +97,7 @@ Epidemiology; Cardiovascular Diseases; Hypertension; Blood Pressure; Nutrition; 
 +:-----------------------------------------:+---------------------------------------------------------------------------------------------------------------------+
 | ![](JHU_logo.png){width="60" height="71"} | <span style="font-size: 14px; line-height: 1.3"> **Bloomberg School of Public Health, Johns Hopkins University\     |
 |                                           | **Graduate Research Assistant (Part-time)\                                                                          |
-|                                           | 01/2024 - Present                                                                                                   |
+|                                           | 01/2024 - 05/2025                                                                                                   |
 +-------------------------------------------+---------------------------------------------------------------------------------------------------------------------+
 | ![](JHU_logo.png){width="60" height="71"} | <span style="font-size: 14px; line-height: 1.4"> **Bloomberg School of Public Health, Johns Hopkins University** *\ |
 |                                           | *Graduate Research Assistant (Full-time)\                                                                           |
